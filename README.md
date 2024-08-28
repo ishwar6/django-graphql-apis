@@ -201,7 +201,7 @@ Contributions are welcome! Here are several ways you can contribute:
 1. **Fork the Repository**: Start by forking the project repository to your GitHub account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a Git client.
    ```sh
-   git clone https://github.com/techdev59/e-mart.git
+   git clone https://github.com/ishwar6/django-graphql-apis.git
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
