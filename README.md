@@ -131,13 +131,13 @@ Ensure you have the following dependencies installed on your system:
 1. Clone the salon-management repository:
 
 ```sh
-git clone https://github.com/techdev59/e-mart.git
+git clone https://github.com/ishwar6/django-graphql-apis.git
 ```
 
 2. Change to the project directory:
 
 ```sh
-cd e-mart
+cd django-graphql-apis
 ```
 
 3. Create virtual environment:
