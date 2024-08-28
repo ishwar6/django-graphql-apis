@@ -191,9 +191,9 @@ python manage.py migrate
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Submit Pull Requests](https://github.com/techdev59/e-mart.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/techdev59/e-mart.git/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/techdev59/e-mart.git/issues)**: Submit bugs found or log feature requests for E-mart.
+- **[Submit Pull Requests](https://github.com/ishwar6/django-graphql-apis.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **[Join the Discussions](https://github.com/ishwar6/django-graphql-apis.git/discussions)**: Share your insights, provide feedback, or ask questions.
+- **[Report Issues](https://github.com/ishwar6/django-graphql-apis.git/issues)**: Submit bugs found or log feature requests for E-mart.
 
 <details closed>
     <summary>Contributing Guidelines</summary>
