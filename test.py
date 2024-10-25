@@ -25,7 +25,16 @@ def get_data_from_search_api(api_url, access_token, search_key, user_email):
     headers = {
         'Authorization': f'Bearer {access_token}',
         'Content-Type': 'application/json',
-        'Accept': 'application/json'
+        'Accept': 'application/json',
+        'Referer': 'https://dataportal.dev.cvshealth.com/',
+        'Origin': 'https://dataportal.dev.cvshealth.com',
+        'sec-ch-ua': '"Chromium";v="130", "Microsoft Edge";v="130", "Not A_Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"macOS"',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-site',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0'
     }
 
     payload = {
